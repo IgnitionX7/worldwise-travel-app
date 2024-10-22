@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "6d74",
+      "cityName": "Faisalabad",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-03-07T17:02:59.082Z",
+      "notes": "mamu naseer house",
+      "position": {
+        "lat": "31.440380540593694",
+        "lng": "73.09204101562501"
+      }
+    },
+    {
+      "id": "bf13",
+      "cityName": "Waltham Abbey",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-03-07T17:03:44.584Z",
+      "notes": "london",
+      "position": {
+        "lat": "51.67255514839676",
+        "lng": "0"
+      }
+    }
+  ]
+}
